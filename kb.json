@@ -1,0 +1,1584 @@
+{
+  "id": "hc_001",
+  "verse_number": 1,
+  "line_number": "1-2",
+  "text_sanskrit": "श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि।\nबरनऊं रघुबर बिमल जसु, जो दायकु फल चारि।।",
+  "text_transliteration": "Shri guru charan saroja raj, nij manu mukuru sudhari. Barnaun Raghubar bimal jasu, jo dayaku phal chari.",
+  "meaning_simple_en": "I cleanse the mirror of my mind with the dust of my Guru’s lotus feet and sing the pure glory of Lord Rama, which grants the four fruits of life.",
+  "meaning_detailed_en": "The poet begins by bowing to his Guru, acknowledging that wisdom and devotion arise only after purifying the mind through humble guidance. By cleansing inner ignorance, the devotee becomes capable of praising Lord Rama’s spotless glory, which bestows the four goals of human life: Dharma (righteousness), Artha (prosperity), Kama (fulfillment), and Moksha (liberation).",
+  "keywords": [
+    "guru devotion",
+    "mind purification",
+    "bhakti",
+    "humility",
+    "Lord Rama",
+    "four goals of life",
+    "moksha"
+  ],
+  "context_story_en": "This verse reflects the Bhakti tradition where spiritual awakening begins with surrender to the Guru. Like Tulsidas before composing the Chalisa, the devotee first purifies the mind through humility before narrating the glory of Rama and Hanuman. The verse sets the spiritual foundation for the entire hymn — knowledge before praise.",
+  "story_seed_en": "A confused devotee seeks peace but struggles with restless thoughts. After surrendering to a wise Guru and practicing devotion, clarity dawns. With a purified mind, the devotee begins to chant Rama’s name and feels guided toward righteousness, prosperity, contentment, and ultimately spiritual freedom.",
+  "image_prompt_en": "A humble devotee bowing at the lotus feet of a glowing Guru inside a peaceful ashram sanctuary, golden divine light cleansing the devotee’s heart, Lord Rama faintly visible in the sky above, traditional Indian devotional painting style, detailed, cinematic lighting.",
+  "emotion": [
+    "reverence",
+    "peace",
+    "gratitude",
+    "spiritual awakening"
+  ],
+  "narration_prompt": "Begin slowly in a calm and reverent tone, with gentle tanpura drone in the background, voice soft yet confident as if introducing a sacred story.",
+  "tags": [
+    "intro",
+    "guru",
+    "bhakti",
+    "purification",
+    "rama_glory"
+  ]
+}
+{
+  "id": "hc_002",
+  "verse_number": 2,
+  "line_number": "1-2",
+  "text_sanskrit": "बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार।\nबल बुद्धि बिद्या देहु मोहिं, हरहु कलेस बिकार।।",
+  "text_transliteration": "Buddhiheen tanu jaanike, sumiraun Pavan Kumar. Bal buddhi vidya dehu mohin, harahu kales bikar.",
+  "meaning_simple_en": "Knowing myself to be ignorant, I remember Hanuman, son of the wind. Grant me strength, wisdom, and knowledge, and remove my suffering and impurities.",
+  "meaning_detailed_en": "The devotee humbly admits personal limitations of intellect and understanding, and turns to Hanuman — who embodies strength, wisdom, and divine intelligence. The prayer is not only for physical power but also mental clarity, knowledge, and freedom from inner troubles like ignorance, pride, fear, and emotional pain that obstruct spiritual progress.",
+  "keywords": [
+    "Hanuman devotion",
+    "humility",
+    "seeking wisdom",
+    "strength and knowledge",
+    "prayer",
+    "removal of suffering"
+  ],
+  "context_story_en": "This verse reflects countless stories where devotees, despite weakness or doubt, remembered Hanuman and found courage, clarity, and guidance. Just as Hanuman helped Rama accomplish the impossible, devotees seek his strength to overcome both internal struggles and external obstacles.",
+  "story_seed_en": "A worried student, feeling mentally weak and lost, bows before Hanuman and prays for guidance. Slowly, confidence replaces anxiety as wisdom and strength awaken within, allowing the student to overcome challenges and walk forward with renewed purpose.",
+  "image_prompt_en": "A young devotee praying before the majestic form of Lord Hanuman, radiant aura surrounding him, streams of divine energy entering the devotee symbolizing strength, wisdom and knowledge, temple background, devotional Indian art style with cinematic lighting.",
+  "emotion": [
+    "humility",
+    "hope",
+    "devotion",
+    "strength",
+    "inner awakening"
+  ],
+  "narration_prompt": "Narrate with a pleading yet hopeful tone, voice filled with humility at first, gradually rising into confident devotion as the prayer for wisdom and strength is spoken.",
+  "tags": [
+    "prayer",
+    "humility",
+    "hanuman",
+    "strength",
+    "wisdom",
+    "suffering_removal"
+  ]
+}
+
+
+
+{
+  "id": "hc_003",
+  "verse_number": 3,
+  "line_number": "1-2",
+  "text_sanskrit": "जय हनुमान ज्ञान गुन सागर।\nजय कपीस तिहुं लोक उजागर।।",
+  "text_transliteration": "Jai Hanuman gyaan gun saagar. Jai Kapis tihun lok ujagar.",
+  "meaning_simple_en": "Glory to Hanuman, the ocean of knowledge and virtues. Glory to the lord of the Vanaras, who is renowned in all the three worlds.",
+  "meaning_detailed_en": "The devotee praises Hanuman as an infinite reservoir of wisdom, noble qualities, and spiritual strength. Hanuman is not just a physical warrior but a master of scriptures, devotion, and humility. As the chief of the Vanaras, his fame and radiance spread across the three worlds—heaven, earth, and the nether regions—symbolizing that his divine presence and influence transcend all realms.",
+  "keywords": [
+    "Hanuman",
+    "ocean of knowledge",
+    "virtues",
+    "Vanara chief",
+    "three worlds",
+    "divine glory",
+    "fame"
+  ],
+  "context_story_en": "This verse echoes moments from the Ramayana where Hanuman’s wisdom, courage and devotion shine, such as when he finds Sita in Lanka, gives Rama’s ring as a sign of hope, and later burns Lanka with his flaming tail. His actions make his name resound in all three worlds, and devotees remember him as both a scholar and a hero.",
+  "story_seed_en": "A young devotee feels insignificant and weak. Upon hearing stories of Hanuman—how he combined immense strength with deep wisdom and humility—the devotee realizes that true greatness is not just power, but virtuous character. Inspired, they decide to cultivate both knowledge and good qualities in daily life.",
+  "image_prompt_en": "Majestic Hanuman standing tall with a radiant aura, holding a gada (mace), scriptures glowing by his side, the three worlds subtly depicted around him (heavenly realm above, earthly landscape, and subtle lower realm), divine light spreading outward, epic devotional Indian art style, detailed and luminous.",
+  "emotion": [
+    "awe",
+    "inspiration",
+    "devotion",
+    "respect",
+    "admiration"
+  ],
+  "narration_prompt": "Chant with uplifting and energetic praise, strong and confident tone, conveying awe and admiration as Hanuman is hailed as an ocean of knowledge and virtues known across the three worlds.",
+  "tags": [
+    "praise",
+    "hanuman_glory",
+    "knowledge",
+    "virtue",
+    "three_worlds",
+    "vanara_chief"
+  ]
+}
+{
+  "id": "hc_004",
+  "verse_number": 4,
+  "line_number": "1-2",
+  "text_sanskrit": "रामदूत अतुलित बल धामा।\nअंजनि-पुत्र पवनसुत नामा।।",
+  "text_transliteration": "Ramdut atulit bal dhama. Anjani-putra Pavan-sut nama.",
+  "meaning_simple_en": "You are the messenger of Lord Rama, the abode of incomparable strength, and are known as the son of Anjani and the Wind God.",
+  "meaning_detailed_en": "This verse honors Hanuman as the devoted emissary of Lord Rama and a living embodiment of boundless power. His extraordinary strength is not merely physical but spiritual—rooted in complete surrender to Rama’s service. By calling him the son of Anjani and the Wind God (Pavan), the verse highlights both his divine origin and his swift, unstoppable energy that allows him to cross oceans and overcome impossible obstacles.",
+  "keywords": [
+    "Hanuman",
+    "Rama’s messenger",
+    "limitless strength",
+    "divine origin",
+    "son of Anjani",
+    "son of Vayu",
+    "service",
+    "power"
+  ],
+  "context_story_en": "This verse recalls the iconic moment when Rama entrusts Hanuman with the mission to search for Sita in Lanka. Traversing the vast ocean in a single leap, defeating demons like Surasa and Simhika, and finally reaching Ashok Vatika, Hanuman proves himself as the perfect messenger—strong, fearless, intelligent, and completely dedicated to his Lord.",
+  "story_seed_en": "A devoted servant receives a vital task meant to help bring hope to someone in despair. Though the challenge seems impossible, faith, loyalty, and courage awaken immense inner strength, allowing the servant to succeed and become a symbol of dedication and divine service.",
+  "image_prompt_en": "Hanuman mid-flight soaring across the ocean with thunderous clouds below, carrying Rama’s ring, divine wind swirling around him, muscles glowing with spiritual energy, moonlit sky overhead, cinematic epic Indian devotional art style.",
+  "emotion": [
+    "valor",
+    "devotion",
+    "loyalty",
+    "awe",
+    "courage"
+  ],
+  "narration_prompt": "Narrate with heroic intensity and reverent respect, strong voice emphasizing strength and dedication, slightly rising energy to reflect Hanuman’s unstoppable devotion to Rama.",
+  "tags": [
+    "rama_messenger",
+    "power",
+    "devotion",
+    "service",
+    "heroism",
+    "divine_origin"
+  ]
+}
+{
+  "id": "hc_005",
+  "verse_number": 5,
+  "line_number": "1-2",
+  "text_sanskrit": "महाबीर बिक्रम बजरंगी।\nकुमति निवार सुमति के संगी।।",
+  "text_transliteration": "Mahavir bikram Bajrangi. Kumati nivar sumati ke sangi.",
+  "meaning_simple_en": "You are a mighty hero, brave and strong like a thunderbolt. You remove evil thoughts and keep company with noble wisdom.",
+  "meaning_detailed_en": "This verse praises Hanuman as an undefeatable warrior (“Mahavir” and “Bikram”) whose strength is compared to the thunderbolt (“Bajrang”). Beyond physical power, the verse highlights his true spiritual role: removing ignorance, confusion, pride, and negative tendencies (kumati), while guiding devotees toward pure thinking and enlightenment (sumati). Hanuman stands as a guardian of moral clarity and inner transformation.",
+  "keywords": [
+    "Mahavir",
+    "Bajrangi",
+    "courage",
+    "strength",
+    "spiritual warrior",
+    "removal of ignorance",
+    "moral guidance",
+    "wisdom"
+  ],
+  "context_story_en": "This verse recalls how Hanuman does not merely defeat enemies physically, but also transforms hearts. In the Ramayana, he lifts the spirits of Rama’s army, corrects doubts, calms fears, and strengthens devotion wherever he appears — showing that true heroism lies in inspiring wisdom and righteousness.",
+  "story_seed_en": "A troubled seeker struggles with negative thinking and doubt. Remembering Hanuman as the remover of ignorance, the seeker begins chanting his name daily. Slowly destructive thoughts fade, replaced by clarity, courage, and wise decision-making that reshape the seeker’s life.",
+  "image_prompt_en": "Powerful Hanuman standing in warrior posture holding a glowing thunderbolt-like gada, dark clouds behind symbolizing ignorance dispersing into golden light representing wisdom, divine aura around him, epic devotional Indian illustration style with dramatic lighting.",
+  "emotion": [
+    "strength",
+    "confidence",
+    "hope",
+    "inner clarity",
+    "devotion"
+  ],
+  "narration_prompt": "Use a commanding yet reassuring voice, blending heroic strength with gentle guidance, emphasizing Hanuman as both a warrior and a remover of inner darkness.",
+  "tags": [
+    "heroism",
+    "wisdom",
+    "strength",
+    "removal_of_negativity",
+    "bajrangi",
+    "inner_transformation"
+  ]
+}
+{
+  "id": "hc_006",
+  "verse_number": 6,
+  "line_number": "1-2",
+  "text_sanskrit": "कंचन बरन बिराज सुबेसा।\nकानन कुंडल कुंचित केसा।।",
+  "text_transliteration": "Kanchan baran biraaj subesa. Kaanan kundal kunchit kesa.",
+  "meaning_simple_en": "Hanuman shines with a golden complexion, dressed beautifully, wearing shining earrings and curly hair.",
+  "meaning_detailed_en": "This verse describes Hanuman’s divine form. His golden radiance symbolizes purity, energy, and spiritual brilliance. His ornaments and attire represent divine dignity and readiness for service, while his curled hair and earrings highlight both majestic beauty and his identity as a celestial being who seamlessly blends power with grace.",
+  "keywords": [
+    "Hanuman appearance",
+    "golden form",
+    "divine radiance",
+    "ornaments",
+    "beauty",
+    "purity",
+    "celestial presence"
+  ],
+  "context_story_en": "Devotional traditions often describe Hanuman appearing to devotees in a radiant golden form during moments of prayer or crisis, instilling peace and courage. This verse celebrates not only his physical beauty but the deeper symbolic meaning of divine light manifesting as a comforting and protective presence.",
+  "story_seed_en": "A devotee in deep meditation envisions Hanuman appearing before them, glowing like molten gold, adorned with celestial ornaments. The vision fills the seeker with calm assurance that divine protection is always near, even during moments of uncertainty.",
+  "image_prompt_en": "Radiant golden Hanuman standing serenely, adorned with shining earrings, soft curled hair flowing around his face, wearing beautiful traditional attire, glowing aura surrounding his figure, temple background, hyper-detailed devotional Indian art style with gentle cinematic lighting.",
+  "emotion": [
+    "awe",
+    "peace",
+    "devotion",
+    "comfort",
+    "divine presence"
+  ],
+  "narration_prompt": "Narrate in a soft, admiring tone filled with wonder and reverence, highlighting the beauty and calming radiance of Hanuman’s divine form.",
+  "tags": [
+    "appearance",
+    "divine_form",
+    "beauty",
+    "radiance",
+    "peace",
+    "vision"
+  ]
+}
+{
+  "id": "hc_007",
+  "verse_number": 7,
+  "line_number": "1-2",
+  "text_sanskrit": "हाथ बज्र औ ध्वजा बिराजै।\nकांधे मूंज जनेऊ साजै।",
+  "text_transliteration": "Haath bajra au dhwaja biraajai. Kaandhe moonj janeu saajai.",
+  "meaning_simple_en": "In your hands shine the thunderbolt and victory flag, and the sacred thread adorns your shoulder.",
+  "meaning_detailed_en": "This verse portrays Hanuman as both warrior and spiritual guardian. The thunderbolt symbolizes unstoppable strength and protection against injustice, while the flag represents victory of righteousness over evil. The sacred thread (janeu) indicates discipline, purity, and devotion to spiritual duty, reminding devotees that true power is guided by moral values and self-restraint.",
+  "keywords": [
+    "Hanuman weapons",
+    "vajra",
+    "victory flag",
+    "sacred thread",
+    "discipline",
+    "spiritual warrior",
+    "righteousness"
+  ],
+  "context_story_en": "During Rama’s campaign against Ravana, Hanuman carried the banner of hope for everyone—from the kidnapped Sita to the worried Vanara army—symbolizing Rama’s inevitable victory. His divine strength balanced with spiritual discipline makes him the ideal warrior monk: fearless yet pure.",
+  "story_seed_en": "A protector stands firm against injustice, holding the symbol of divine strength while remaining devoted to moral discipline. Through both courage and spiritual purity, the hero becomes a beacon of hope and victory for others.",
+  "image_prompt_en": "Hanuman standing triumphantly holding a glowing thunderbolt weapon in one hand and a flowing victory flag in the other, sacred janeu visible across his shoulder, dramatic sky and battlefield backdrop, epic Indian devotional art style with powerful lighting.",
+  "emotion": [
+    "valor",
+    "righteous pride",
+    "steadfast faith",
+    "devotion",
+    "heroic resolve"
+  ],
+  "narration_prompt": "Narrate with firm confidence and devotional reverence, conveying the balance of power and purity, strength and righteousness embodied by Hanuman.",
+  "tags": [
+    "warrior",
+    "protection",
+    "righteousness",
+    "discipline",
+    "victory",
+    "sacred_symbols"
+  ]
+}
+{
+  "id": "hc_008",
+  "verse_number": 8,
+  "line_number": "1-2",
+  "text_sanskrit": "संकर सुवन केसरीनंदन।\nतेज प्रताप महा जग बन्दन।।",
+  "text_transliteration": "Shankar suvan Kesari nandan. Tej prataap maha jag bandan.",
+  "meaning_simple_en": "You are the divine incarnation of Shiva and the son of Kesari. Your brilliance and glory are worshipped throughout the world.",
+  "meaning_detailed_en": "This verse identifies Hanuman as an incarnation or manifestation of Lord Shiva (Shankar suvan) and the noble son of Kesari. His divine origins explain his unmatched spiritual power and fearless devotion. Hanuman’s inner radiance (tej) and heroic authority (pratap) inspire reverence across all realms, making him universally adored and respected.",
+  "keywords": [
+    "Hanuman",
+    "Shiva incarnation",
+    "Kesari’s son",
+    "divine lineage",
+    "spiritual power",
+    "radiance",
+    "universal reverence"
+  ],
+  "context_story_en": "Ancient traditions describe Shiva manifesting as Hanuman to assist Lord Rama in his cosmic mission to restore righteousness. From defeating demons to protecting devotees, Hanuman’s divine brilliance spreads across the world, earning him worship in temples, homes, and sacred texts alike.",
+  "story_seed_en": "A seeker learns that true greatness does not arise from ego but from divine purpose. Understanding Hanuman’s origin as Shiva’s manifestation deepens faith and inspires the seeker to live with courage, humility, and service to others.",
+  "image_prompt_en": "Divine Hanuman glowing with intense spiritual radiance, subtle aura of Lord Shiva appearing behind him, celestial light showering from above, devotional Indian epic art style, ultra-detailed with symbolic divine energy.",
+  "emotion": [
+    "reverence",
+    "wonder",
+    "inspiration",
+    "divine awe",
+    "devotion"
+  ],
+  "narration_prompt": "Narrate with majestic reverence and uplifting admiration, emphasizing Hanuman’s divine origin and universal glory.",
+  "tags": [
+    "divine_origin",
+    "shiva_incarnation",
+    "glory",
+    "radiance",
+    "kesari_son",
+    "universal_worship"
+  ]
+}
+{
+  "id": "hc_009",
+  "verse_number": 9,
+  "line_number": "1-2",
+  "text_sanskrit": "विद्यावान गुनी अति चातुर।\nराम काज करिबे को आतुर।।",
+  "text_transliteration": "Vidyavaan guni ati chatur. Ram kaaj karibe ko aatur.",
+  "meaning_simple_en": "You are learned, virtuous, and highly intelligent, and you are always eager to serve Lord Rama.",
+  "meaning_detailed_en": "This verse highlights Hanuman’s extraordinary intellectual and moral excellence. He is not only physically powerful but also deeply scholarly, skilled in scriptures, diplomacy, and strategy. Above all, his knowledge and abilities exist solely for service to Rama. Hanuman represents the ideal of selfless intelligence — wisdom guided entirely by devotion and purpose rather than pride.",
+  "keywords": [
+    "wisdom",
+    "intelligence",
+    "learning",
+    "virtue",
+    "service",
+    "devotion to Rama",
+    "selfless action"
+  ],
+  "context_story_en": "Throughout the Ramayana, Hanuman expertly balances diplomacy and bravery: politely negotiating with Sita in Lanka, debating Ravana’s ministers, encouraging Vibhishana to seek refuge with Rama, and inspiring the Vanara forces with wise leadership — all fueled by unwavering devotion to Rama’s mission.",
+  "story_seed_en": "A talented student realizes that true intelligence shines not in ego but in service. Inspired by Hanuman’s eagerness to accomplish Rama’s tasks, the student channels their knowledge into helping others and working toward meaningful causes.",
+  "image_prompt_en": "Scholar-warrior Hanuman holding sacred manuscripts in one hand and Rama’s ring in the other, calm yet focused expression, temple hall background bathed in soft golden light, devotional Indian illustration style with fine detail.",
+  "emotion": [
+    "devotion",
+    "dedication",
+    "admiration",
+    "focus",
+    "service-mindedness"
+  ],
+  "narration_prompt": "Narrate with an admiring yet gentle tone that highlights Hanuman’s wisdom blended with humble eagerness for divine service.",
+  "tags": [
+    "wisdom",
+    "intelligence",
+    "service",
+    "ram_work",
+    "selflessness",
+    "scholar_warrior"
+  ]
+}
+{
+  "id": "hc_010",
+  "verse_number": 10,
+  "line_number": "1-2",
+  "text_sanskrit": "प्रभु चरित्र सुनिबे को रसिया।\nराम लखन सीता मन बसिया।।",
+  "text_transliteration": "Prabhu charitra sunibe ko rasiya. Ram Lakhan Sita man basiya.",
+  "meaning_simple_en": "You delight in listening to the stories of the Lord, and Rama, Lakshmana, and Sita dwell forever in your heart.",
+  "meaning_detailed_en": "This verse reveals Hanuman as not only a heroic servant but a devoted listener and lover of Rama’s divine pastimes. His heart is completely filled with Rama, Sita, and Lakshmana. Because of this constant remembrance (smaran), every action of Hanuman flows naturally as devotional service. The verse teaches that true devotion begins by joyfully hearing and remembering divine stories.",
+  "keywords": [
+    "devotion",
+    "listening to divine stories",
+    "constant remembrance",
+    "bhakti",
+    "Rama",
+    "Sita",
+    "Lakshmana"
+  ],
+  "context_story_en": "Hanuman is often depicted sitting near sages or beside Rama himself, eagerly listening to divine discourse. His love for hearing Rama’s glories demonstrates the Bhakti path where listening (shravanam) is one of the most powerful practices for spiritual growth.",
+  "story_seed_en": "A weary soul finds peace while listening to stories of Rama and Sita during evening prayers. Inspired by Hanuman’s love for divine listening, the soul begins daily devotion, gradually finding inner calm, purpose, and connection to the divine.",
+  "image_prompt_en": "Peaceful Hanuman seated cross-legged beneath a sacred tree, eyes closed in bliss as he listens to divine tales, subtle visions of Rama, Sita, and Lakshmana glowing within his heart, soft moonlight and temple lamps illuminating the scene, devotional Indian art style.",
+  "emotion": [
+    "peace",
+    "devotion",
+    "joy",
+    "love",
+    "serenity"
+  ],
+  "narration_prompt": "Narrate in a warm and gentle devotional tone, conveying joy and tenderness as Hanuman listens to and remembers Rama’s divine stories.",
+  "tags": [
+    "bhakti",
+    "listening",
+    "divine_remembrance",
+    "rama_sita_lakshmana",
+    "devotion",
+    "inner_peace"
+  ]
+}
+{
+  "id": "hc_011",
+  "verse_number": 11,
+  "line_number": "1-2",
+  "text_sanskrit": "सूक्ष्म रूप धरि सियहिं दिखावा।\nबिकट रूप धरि लंक जरावा।।",
+  "text_transliteration": "Sukshma roop dhari Siyahin dikhava. Bikat roop dhari Lanka jarava.",
+  "meaning_simple_en": "Assuming a tiny form, you appeared before Sita; assuming a frightening form, you burned Lanka.",
+  "meaning_detailed_en": "This verse highlights Hanuman’s extraordinary ability to change forms at will, representing adaptability and intelligence in service. He became extremely small and gentle to approach Sita without frightening her, demonstrating sensitivity and wisdom. Later, he assumed a massive and terrifying form to destroy Lanka, embodying righteous fury against injustice. The verse teaches that true strength adapts itself to the needs of the moment — gentleness when compassion is required, power when evil must be destroyed.",
+  "keywords": [
+    "Hanuman shape-shifting",
+    "adaptability",
+    "Sita",
+    "burning of Lanka",
+    "gentle strength",
+    "righteous destruction",
+    "mission success"
+  ],
+  "context_story_en": "In Ashok Vatika, Hanuman became tiny to earn Sita’s trust and comfort her with Rama’s message. When captured by Ravana’s soldiers and his tail was set ablaze, he expanded to a terrifying size and leaped across rooftops, setting Lanka on fire — a powerful act that shattered fear and declared divine justice.",
+  "story_seed_en": "A humble messenger approaches someone in sorrow with gentleness and kindness, bringing hope. Later, the same messenger becomes a fearless protector defending the innocent, showing that true heroes blend compassion with decisive strength.",
+  "image_prompt_en": "Split-scene: On one side, tiny gentle Hanuman approaching sorrowful Sita in Ashok Vatika under moonlight; on the other side, giant fiery Hanuman leaping across burning Lanka rooftops, tail ablaze, dramatic flames illuminating the night, epic Indian devotional art style.",
+  "emotion": [
+    "compassion",
+    "courage",
+    "awe",
+    "justice",
+    "heroic intensity"
+  ],
+  "narration_prompt": "Begin softly and tenderly for the Sita encounter, then rise into powerful and thrilling intensity while describing the burning of Lanka, creating a dramatic emotional shift.",
+  "tags": [
+    "shape_shifting",
+    "mission",
+    "sita",
+    "burning_lanka",
+    "compassion",
+    "righteous_wrath"
+  ]
+}
+{
+  "id": "hc_012",
+  "verse_number": 12,
+  "line_number": "1-2",
+  "text_sanskrit": "भीम रूप धरि असुर संहारे।\nरामचंद्र के काज संवारे।।",
+  "text_transliteration": "Bheem roop dhari asur sanhaare. Ramchandra ke kaaj sanvaare.",
+  "meaning_simple_en": "Assuming a mighty form, you destroyed demons and perfectly accomplished all of Lord Rama’s tasks.",
+  "meaning_detailed_en": "This verse praises Hanuman’s terrifying battle form, with which he annihilated demonic forces that blocked Rama’s mission. Yet the purpose of this power was never personal glory — it was exclusively to fulfill Rama’s divine plans. Hanuman embodies the ideal servant-leader: mighty in action, humble in intention. Victory is achieved not by ego, but by surrender to a higher purpose.",
+  "keywords": [
+    "Hanuman warrior form",
+    "demon slayer",
+    "divine mission",
+    "selfless service",
+    "Rama devotion",
+    "heroic strength",
+    "ideal servant"
+  ],
+  "context_story_en": "During the war of Lanka, Hanuman destroyed powerful demons and protected Rama’s army. Whether lifting mountains to bring healing herbs or battling enemy warriors, his every action directly supported Rama’s divine goal of rescuing Sita and restoring dharma.",
+  "story_seed_en": "A warrior, devoted to a righteous cause, uses immense strength not for fame, but to save others and complete a mission higher than himself, proving that true heroism lies in service.",
+  "image_prompt_en": "Heroic Hanuman in giant battle form smashing demon forces on the battlefield, Rama’s banner flying behind him, radiating divine energy, dramatic clouds and glowing light beams, epic Indian mythological art style, highly detailed cinematic illustration.",
+  "emotion": [
+    "valor",
+    "devotion",
+    "righteous fury",
+    "heroic determination",
+    "victory"
+  ],
+  "narration_prompt": "Narrate with thunderous energy and heroic reverence, highlighting the spectrum of strength tempered by deep devotion to Rama.",
+  "tags": [
+    "battle",
+    "demon_slayer",
+    "rama_service",
+    "heroism",
+    "mission_accomplished",
+    "divine_strength"
+  ]
+}
+{
+  "id": "hc_013",
+  "verse_number": 13,
+  "line_number": "1-2",
+  "text_sanskrit": "लाय सजीवन लखन जियाये।\nश्रीरघुबीर हरषि उर लाये।।",
+  "text_transliteration": "Laay Sanjeevan Lakhan jiyaaye. Shree Raghubeer harashi ur laaye.",
+  "meaning_simple_en": "Bringing the life-saving herb, you revived Lakshmana, and Lord Rama joyfully embraced you.",
+  "meaning_detailed_en": "This verse commemorates one of Hanuman’s greatest heroic deeds — flying to the Himalayas and bringing the Sanjeevani herb to save Lakshmana’s life during the battle of Lanka. This act of compassion, courage, and swift devotion demonstrated Hanuman’s unwavering dedication to Rama’s family and mission. Rama’s joyful embrace symbolizes divine recognition of pure, selfless service.",
+  "keywords": [
+    "Sanjeevani",
+    "Lakshmana revival",
+    "compassion",
+    "heroic devotion",
+    "divine blessing",
+    "selfless service",
+    "swift action"
+  ],
+  "context_story_en": "When Lakshmana fell unconscious from Indrajit’s weapon, Hanuman flew across the ocean to the Himalayas to find the Sanjeevani herb. Unable to identify it quickly, he lifted the entire mountain and returned in time to save Lakshmana. The episode highlights faith combined with quick action and fearless devotion.",
+  "story_seed_en": "A life hangs in the balance and hope seems lost. A devoted hero races against time to bring healing, driven only by love and duty. His success earns not medals, but the heartfelt gratitude of those he served.",
+  "image_prompt_en": "Heroic Hanuman carrying the glowing Sanjeevani mountain through the night sky, wind streaming behind him, moon and stars above, Rama and the battlefield below awaiting hope, epic cinematic Indian devotional art style, ultra-detailed.",
+  "emotion": [
+    "urgency",
+    "hope",
+    "devotion",
+    "relief",
+    "joy"
+  ],
+  "narration_prompt": "Narrate with urgent intensity at first, shifting into warm joy and reverence as Rama embraces Hanuman and Lakshmana is restored.",
+  "tags": [
+    "sanjeevani",
+    "lakshmana",
+    "healing",
+    "heroic_service",
+    "rama",
+    "divine_reward"
+  ]
+}
+{
+  "id": "hc_014",
+  "verse_number": 14,
+  "line_number": "1-2",
+  "text_sanskrit": "रघुपति कीन्ही बहुत बड़ाई।\nतुम मम प्रिय भरतहि सम भाई।।",
+  "text_transliteration": "Raghupati keenhi bahut badaai. Tum mam priya Bharatahi sam bhaai.",
+  "meaning_simple_en": "Lord Rama praised you greatly and said that you are as dear to Him as His own brother Bharata.",
+  "meaning_detailed_en": "This verse reveals the depth of Lord Rama’s love for Hanuman. After Hanuman’s tireless service—saving Lakshmana, burning Lanka, and completing countless dangerous missions—Rama openly declared that Hanuman holds a place in His heart equal to that of Bharata, His beloved brother. This recognition demonstrates the supreme value of selfless devotion: service rooted in love transcends blood relations and earns divine intimacy.",
+  "keywords": [
+    "Rama’s praise",
+    "Hanuman devotion",
+    "brotherly love",
+    "divine recognition",
+    "selfless service",
+    "bhakti fulfillment"
+  ],
+  "context_story_en": "Following Lakshmana’s miraculous recovery and other heroic feats, Rama publicly expressed immeasurable gratitude to Hanuman. In devotional tradition, this moment symbolizes how the Divine rewards sincere service not with material gifts, but with personal affection and eternal closeness.",
+  "story_seed_en": "A humble servant expects no reward for service, yet finds themselves honored with love beyond measure. The story teaches that heartfelt devotion draws divine recognition and transforms relationships beyond ordinary bonds.",
+  "image_prompt_en": "Lord Rama embracing Hanuman affectionately while Lakshmana and Bharata stand nearby with smiles, golden divine light surrounding the scene, epic devotional Indian painting style, soft glowing atmosphere.",
+  "emotion": [
+    "gratitude",
+    "love",
+    "joy",
+    "peace",
+    "divine affection"
+  ],
+  "narration_prompt": "Narrate with warm tenderness and deep gratitude, emphasizing Rama’s loving recognition of Hanuman as equal to His own brother.",
+  "tags": [
+    "divine_praise",
+    "brotherhood",
+    "rama_affection",
+    "bhakti",
+    "gratitude",
+    "honor"
+  ]
+}
+{
+  "id": "hc_015",
+  "verse_number": 15,
+  "line_number": "1-2",
+  "text_sanskrit": "सहस बदन तुम्हरो जस गावैं।\nअस कहि श्रीपति कंठ लगावैं।।",
+  "text_transliteration": "Sahas badan tumharo jas gaavain. As kahi Shripati kanth lagaavain.",
+  "meaning_simple_en": "Even a thousand mouths cannot fully sing your praises, saying this Lord Rama embraces you.",
+  "meaning_detailed_en": "This verse expresses that Hanuman’s deeds and virtues are so vast that even countless voices would be insufficient to describe them fully. Acknowledging this truth, Lord Rama affectionately embraces Hanuman, demonstrating divine humility and boundless love toward His devotee. The imagery reflects the sacred bond between God and devotee, where devotion surpasses all worldly measurements and honors.",
+  "keywords": [
+    "limitless praise",
+    "divine embrace",
+    "bhakti bond",
+    "immeasurable devotion",
+    "Rama and Hanuman",
+    "divine humility"
+  ],
+  "context_story_en": "After Hanuman’s extraordinary service — rescuing Sita, saving Lakshmana, aiding in Lanka’s fall — Rama recognizes the impossibility of repaying such devotion. His embrace becomes the ultimate gift, signifying eternal acceptance and grace.",
+  "story_seed_en": "A devoted servant realizes that love and service cannot be measured or repaid with words. Instead of praise alone, heartfelt connection becomes the greatest reward.",
+  "image_prompt_en": "Lord Rama warmly embracing Hanuman at the center of a glowing battlefield victory scene, Vanara warriors watching with devotion, golden divine light pouring down, epic devotional art style, richly detailed cinematic look.",
+  "emotion": [
+    "love",
+    "gratitude",
+    "awe",
+    "devotional fulfillment",
+    "divine intimacy"
+  ],
+  "narration_prompt": "Narrate slowly with deep emotion, voice filled with reverence and tenderness, highlighting the immeasurable honor of Rama’s divine embrace.",
+  "tags": [
+    "infinite_praise",
+    "rama_embrace",
+    "bhakti_reward",
+    "gratitude",
+    "divine_love"
+  ]
+}
+{
+  "id": "hc_016",
+  "verse_number": 16,
+  "line_number": "1-2",
+  "text_sanskrit": "सनकादिक ब्रह्मादि मुनीसा।\nनारद सारद सहित अहीसा।।",
+  "text_transliteration": "Sanakaadik Brahmaadi muneesa. Naarad Saarad sahit Aheesa.",
+  "meaning_simple_en": "Great sages like Sanaka and Brahma, along with Narada, Goddess Saraswati, and the king of serpents all sing your glory.",
+  "meaning_detailed_en": "This verse proclaims that Hanuman’s greatness is recognized and honored not only on Earth but also by the highest beings of the cosmos: ancient sages (Sanaka and others), Brahma the creator, Narada the divine sage, Goddess Saraswati the deity of wisdom and speech, and Shesha (Aheesha), the divine serpent. Their combined praise affirms Hanuman’s universal spiritual authority across all realms of existence.",
+  "keywords": [
+    "cosmic praise",
+    "divine sages",
+    "Brahma",
+    "Narada",
+    "Saraswati",
+    "Shesha",
+    "universal respect"
+  ],
+  "context_story_en": "In devotional tradition, Hanuman’s unwavering purity earns admiration even from celestial beings. His deeds become subjects of praise among gods and sages alike, demonstrating that spiritual excellence transcends rank and divinity.",
+  "story_seed_en": "A seeker learns that true virtue brings recognition across all realms. Watching sages and heavenly beings honor Hanuman teaches the seeker that devotion grounded in humility elevates one beyond ordinary limitation.",
+  "image_prompt_en": "Celestial gathering where Brahma, Narada with veena, Goddess Saraswati holding veena, and Shesha kneel or gesture in reverence toward radiant Hanuman at the center, stars and cosmic clouds swirling in the background, epic devotional Indian art style with divine illumination.",
+  "emotion": [
+    "reverence",
+    "awe",
+    "wonder",
+    "devotional admiration",
+    "cosmic harmony"
+  ],
+  "narration_prompt": "Narrate with majestic reverence, expanding the sense of cosmic grandeur as multiple divine voices unite in praise of Hanuman.",
+  "tags": [
+    "cosmic_praise",
+    "sages",
+    "divine_worship",
+    "hanuman_glory",
+    "universal_recognition"
+  ]
+}
+{
+  "id": "hc_017",
+  "verse_number": 17,
+  "line_number": "1-2",
+  "text_sanskrit": "जम कुबेर दिगपाल जहां ते।\nकबि कोबिद कहि सके कहां ते।।",
+  "text_transliteration": "Jam Kubera Digpaal jahan te. Kavi kobid kahi sake kahaan te.",
+  "meaning_simple_en": "Even Yama, Kubera, and the guardians of the directions praise you — how could any poet describe your glory fully?",
+  "meaning_detailed_en": "This verse continues the theme of cosmic recognition. Divine beings responsible for death (Yama), wealth (Kubera), and cosmic order (the directional guardians or Digpalas) all revere Hanuman. The poet then humbly acknowledges that even the most skilled poets cannot capture the entirety of Hanuman’s greatness, as his virtues transcend expression in words.",
+  "keywords": [
+    "Yama",
+    "Kubera",
+    "Digpalas",
+    "cosmic guardians",
+    "limitless glory",
+    "divine reverence",
+    "poetic humility"
+  ],
+  "context_story_en": "Hanuman’s protection of devotees is believed to span all worlds—safeguarding wealth, life, and spiritual welfare alike. Celestial guardians are said to honor him because his strength preserves divine order against evil forces.",
+  "story_seed_en": "A poet stands before the vast ocean of Hanuman’s deeds and realizes that words fall short. Accepting this limitation, the poet learns humility and reverence toward the divine mysteries that cannot be fully captured by language.",
+  "image_prompt_en": "Majestic scene of celestial beings Yama, Kubera, and the glowing directional guardians bowing toward radiant Hanuman at the cosmic center, stars and divine light beams filling the sky, epic mythological Indian art style.",
+  "emotion": [
+    "awe",
+    "humility",
+    "wonder",
+    "devotional reverence",
+    "cosmic majesty"
+  ],
+  "narration_prompt": "Narrate slowly with profound awe and humility, conveying the vastness of Hanuman’s greatness beyond human speech.",
+  "tags": [
+    "cosmic_guardians",
+    "limitless_glory",
+    "poetic_humility",
+    "hanuman_praise",
+    "universal_respect"
+  ]
+}
+{
+  "id": "hc_018",
+  "verse_number": 18,
+  "line_number": "1-2",
+  "text_sanskrit": "तुम उपकार सुग्रीवहिं कीन्हा।\nराम मिलाय राज पद दीन्हा।।",
+  "text_transliteration": "Tum upkaar Sugreevahin keenha. Ram milaye raaj pad deenha.",
+  "meaning_simple_en": "You did a great favor to Sugriva by uniting him with Rama, and through that he regained his kingdom.",
+  "meaning_detailed_en": "This verse recalls how Hanuman’s wisdom and initiative changed Sugriva’s destiny. By bringing Sugriva to Lord Rama and mediating their alliance, Hanuman not only helped Sugriva regain his lost kingdom from his brother Vali but also supported Rama’s mission to find Sita. It shows Hanuman as a compassionate facilitator who uplifts others, connecting them with the Divine and restoring their rightful place.",
+  "keywords": [
+    "Sugriva",
+    "alliance with Rama",
+    "kingdom restored",
+    "mediation",
+    "uplifting others",
+    "divine connection",
+    "gratitude"
+  ],
+  "context_story_en": "After meeting Rama and Lakshmana in the forest, Hanuman recognized their greatness and brought them to Sugriva. He helped establish trust between them, leading to Sugriva’s victory over Vali and his coronation as king of Kishkindha. This alliance then powered Rama’s search for Sita.",
+  "story_seed_en": "A friend in exile and fear finds hope when a wise helper introduces him to a just and powerful ally. Through this bond, the friend not only regains his lost position but also finds deeper purpose in serving a higher cause.",
+  "image_prompt_en": "Hanuman joyfully bringing Sugriva to meet Rama and Lakshmana in the forest, Rama placing a reassuring hand on Sugriva’s shoulder, subtle suggestion of a future coronation in the background, lush forest setting, devotional Indian epic art style.",
+  "emotion": [
+    "gratitude",
+    "hope",
+    "trust",
+    "relief",
+    "friendship"
+  ],
+  "narration_prompt": "Narrate warmly with a tone of gratitude and relief, emphasizing Hanuman’s role in reuniting Sugriva with both his kingdom and divine friendship with Rama.",
+  "tags": [
+    "sugriva",
+    "alliance",
+    "friendship",
+    "restored_kingdom",
+    "mediator",
+    "divine_help"
+  ]
+}
+{
+  "id": "hc_019",
+  "verse_number": 19,
+  "line_number": "1-2",
+  "text_sanskrit": "तुम्हरो मंत्र बिभीषन माना।\nलंकेस्वर भए सब जग जाना।।",
+  "text_transliteration": "Tumhro mantra Bibheeshan maana. Lankeshwar bhaye sab jag jaana.",
+  "meaning_simple_en": "Vibhishana accepted your counsel, and as the whole world knows, he became the king of Lanka.",
+  "meaning_detailed_en": "This verse highlights Hanuman’s role as a wise counselor whose guidance transformed destinies. Vibhishana, despite being Ravana’s brother, chose righteousness after accepting Hanuman’s counsel to seek refuge with Rama. By standing with dharma, he became the righteous ruler of Lanka after Ravana’s downfall. The verse teaches that listening to virtuous guidance leads to true success and honor.",
+  "keywords": [
+    "Vibhishana",
+    "wise counsel",
+    "dharma",
+    "right choice",
+    "righteous leadership",
+    "guidance",
+    "divine alliance"
+  ],
+  "context_story_en": "When Vibhishana approached Rama seeking refuge, some doubted his intentions. Hanuman advocated trust, emphasizing compassion and dharma. Encouraged and guided by Hanuman, Vibhishana rejected Ravana’s path of arrogance and stood for righteousness, ultimately becoming king of Lanka.",
+  "story_seed_en": "A conflicted prince faces a moral crossroads. By accepting the advice of a wise guide, he chooses integrity over family ties, and that choice leads him to leadership grounded in justice.",
+  "image_prompt_en": "Hanuman guiding Vibhishana respectfully toward Rama, ocean backdrop and Lanka skyline in the distance, Rama blessing Vibhishana while placing a hand on his head, soft divine light illuminating the scene, devotional Indian epic art style.",
+  "emotion": [
+    "wisdom",
+    "hope",
+    "moral courage",
+    "trust",
+    "justice"
+  ],
+  "narration_prompt": "Narrate with a calm and wise tone conveying moral clarity and triumph of righteousness guided by Hanuman’s counsel.",
+  "tags": [
+    "vibhishana",
+    "guidance",
+    "righteous_choice",
+    "dharma",
+    "leadership",
+    "divine_counsel"
+  ]
+}
+{
+  "id": "hc_020",
+  "verse_number": 20,
+  "line_number": "1-2",
+  "text_sanskrit": "जुग सहस्र जोजन पर भानू।\nलील्यो ताहि मधुर फल जानू।।",
+  "text_transliteration": "Jug sahasra yojan par bhaanu. Leelyo taahi madhur phal jaanu.",
+  "meaning_simple_en": "The sun, thousands of miles away, you swallowed thinking it to be a sweet fruit.",
+  "meaning_detailed_en": "This verse recounts the divine childhood feat of Hanuman, who leapt across the sky to seize the blazing sun, mistaking it for a ripe fruit. The episode symbolizes his limitless strength, courage, and innocence. It also reflects how spiritual seekers, driven by pure intention rather than ego, dare to reach what seems impossible.",
+  "keywords": [
+    "child Hanuman",
+    "sun episode",
+    "limitless strength",
+    "innocent courage",
+    "fearlessness",
+    "divine play"
+  ],
+  "context_story_en": "As a child, Hanuman saw the rising sun glowing red and round like a fruit. Filled with playful curiosity, he leapt skyward to grab it, disrupting cosmic order until the gods intervened. The episode revealed his divine potential from an early age.",
+  "story_seed_en": "A fearless child leaps toward the seemingly impossible, guided by innocent wonder rather than calculation. The act inspires others to envision greatness beyond ordinary limits.",
+  "image_prompt_en": "Young Hanuman flying joyfully across the vivid sky toward the glowing sun shaped like a golden fruit, clouds swirling around him, astonished celestial beings watching from afar, epic mythological Indian art style with radiant lighting.",
+  "emotion": [
+    "wonder",
+    "playfulness",
+    "awe",
+    "courage",
+    "joy"
+  ],
+  "narration_prompt": "Narrate with lively wonder and playful energy, evoking the innocence and miraculous boldness of Hanuman’s childhood feat.",
+  "tags": [
+    "childhood_feat",
+    "sun_episode",
+    "divine_play",
+    "courage",
+    "limitless_energy"
+  ]
+}
+{
+  "id": "hc_021",
+  "verse_number": 21,
+  "line_number": "1-2",
+  "text_sanskrit": "प्रभु मुद्रिका मेलि मुख माहीं।\nजलधि लांघि गये अचरज नाहीं।।",
+  "text_transliteration": "Prabhu mudrika meli mukh maahin. Jaladhi laanghi gaye acharaj naahin.",
+  "meaning_simple_en": "Placing Lord Rama’s ring in your mouth, you leapt across the ocean — it was no surprise at all.",
+  "meaning_detailed_en": "This verse recalls Hanuman’s awe-inspiring leap across the vast ocean while carrying Rama’s signet ring as proof of his divine mission to find Sita. The feat symbolizes unwavering faith, courage, and absolute trust in Rama’s grace. Because Hanuman acted as an instrument of divine will, even extraordinary miracles became natural outcomes rather than astonishing acts.",
+  "keywords": [
+    "Rama's ring",
+    "crossing the ocean",
+    "faith",
+    "courage",
+    "divine mission",
+    "trust",
+    "miraculous feat"
+  ],
+  "context_story_en": "Before crossing the ocean, Rama entrusted Hanuman with his ring to show Sita as a token of authenticity. Holding the ring securely, Hanuman took a monumental leap across the sea, overcoming demons and divine trials along the way until reaching Lanka.",
+  "story_seed_en": "A devoted messenger carries the symbol of faith close to his heart while crossing impossible distances. Each obstacle fades not because of raw strength alone, but because of unshakeable trust in his sacred mission.",
+  "image_prompt_en": "Heroic Hanuman soaring above turbulent ocean waves with Rama’s ring glowing in his mouth, moonlight reflecting on the water, storm clouds parting before him, epic devotional Indian cinematic art style, ultra-detailed lighting.",
+  "emotion": [
+    "devotion",
+    "courage",
+    "determination",
+    "faith",
+    "awe"
+  ],
+  "narration_prompt": "Narrate with rising heroic energy tempered by serene faith, emphasizing steadiness and confidence rather than surprise.",
+  "tags": [
+    "ocean_crossing",
+    "rama_ring",
+    "faith",
+    "mission",
+    "heroism",
+    "trust"
+  ]
+}
+{
+  "id": "hc_022",
+  "verse_number": 22,
+  "line_number": "1-2",
+  "text_sanskrit": "दुर्गम काज जगत के जेते।\nसुगम अनुग्रह तुम्हरे तेते।।",
+  "text_transliteration": "Durgam kaaj jagat ke jete. Sugam anugrah tumhare tete.",
+  "meaning_simple_en": "All the difficult tasks of the world become easy through your grace.",
+  "meaning_detailed_en": "This verse expresses the deep faith of devotees that with Hanuman’s blessings no obstacle remains insurmountable. Challenges that appear impossible through human effort alone become effortless when divine grace flows. Hanuman is seen as the remover of barriers — both outer hardships and inner fears — guiding devotees safely toward success in duty and spiritual life.",
+  "keywords": [
+    "divine grace",
+    "obstacle removal",
+    "faith",
+    "ease of difficulty",
+    "Hanuman blessings",
+    "hope",
+    "support"
+  ],
+  "context_story_en": "Hanuman faced countless impossible missions — crossing oceans, confronting demons, healing Lakshmana — and yet every obstacle dissolved when aligned with Rama’s service. Devotees remember his victories as proof that trust in divine guidance transforms difficulty into success.",
+  "story_seed_en": "Overwhelmed by impossible obstacles, a seeker prays sincerely for guidance. Inspired by Hanuman’s presence, paths begin opening that once seemed blocked, showing that faith supported by action draws unseen help.",
+  "image_prompt_en": "Devotee praying before a radiant Hanuman statue while barriers dissolve into glowing light around them, symbolizing obstacles breaking away, serene temple environment, soft cinematic devotional lighting style.",
+  "emotion": [
+    "hope",
+    "trust",
+    "peace",
+    "confidence",
+    "devotion"
+  ],
+  "narration_prompt": "Narrate gently and reassuringly, conveying comfort and confidence that divine grace makes all hardships manageable.",
+  "tags": [
+    "grace",
+    "obstacle_removal",
+    "faith",
+    "ease",
+    "devotion",
+    "hope"
+  ]
+}
+{
+  "id": "hc_023",
+  "verse_number": 23,
+  "line_number": "1-2",
+  "text_sanskrit": "राम दुआरे तुम रखवारे।\nहोत न आज्ञा बिनु पैसारे।।",
+  "text_transliteration": "Raam duaare tum rakhvaare. Hot na aagya binu paisaare.",
+  "meaning_simple_en": "You are the guardian at the gate of Lord Rama; without your permission, none may enter.",
+  "meaning_detailed_en": "This verse symbolizes Hanuman as the spiritual gatekeeper of devotion to Rama. It teaches that true access to the divine comes through humility, service, and purity — qualities embodied by Hanuman himself. Devotion guided by ego or arrogance cannot enter the divine presence; only sincere surrender and righteous intent, protected and guided by Hanuman, gain admittance.",
+  "keywords": [
+    "spiritual gatekeeper",
+    "Hanuman protector",
+    "access to divine",
+    "humility",
+    "devotion",
+    "surrender",
+    "divine service"
+  ],
+  "context_story_en": "Hanuman is portrayed in temples as standing at Rama’s threshold, symbolizing his role as protector and guide of devotees. Spiritually, this means that Hanuman safeguards the devotee’s journey, ensuring only pure intentions approach the divine presence.",
+  "story_seed_en": "A seeker stands before sacred doors, learning that entry into divine grace requires humility and guidance. Through devotion to Hanuman’s virtues, the seeker attains the readiness to step inside.",
+  "image_prompt_en": "Majestic Hanuman standing guard at the glowing gates of Lord Rama’s palace, holding his mace gently, divine light spilling from inside, serene sacred atmosphere, epic devotional Indian art style with detailed illumination.",
+  "emotion": [
+    "reverence",
+    "security",
+    "peace",
+    "humility",
+    "devotion"
+  ],
+  "narration_prompt": "Narrate with calm authority and reassurance, emphasizing protection and sacred guardianship.",
+  "tags": [
+    "protector",
+    "gatekeeper",
+    "divine_access",
+    "humility",
+    "devotion",
+    "security"
+  ]
+}
+{
+  "id": "hc_024",
+  "verse_number": 24,
+  "line_number": "1-2",
+  "text_sanskrit": "सब सुख लहै तुम्हारी सरना।\nतुम रक्षक काहू को डर ना।।",
+  "text_transliteration": "Sab sukh lahai tumhaari sarna. Tum rakshak kaahu ko dar na.",
+  "meaning_simple_en": "Those who seek your refuge find all happiness; under your protection, there is nothing to fear.",
+  "meaning_detailed_en": "This verse expresses complete trust in Hanuman’s protection. It teaches that surrendering oneself to divine shelter removes inner fear and outer distress alike. True happiness arises not from worldly security but from spiritual assurance — knowing one is protected by the divine guardian.",
+  "keywords": [
+    "refuge",
+    "divine protection",
+    "fearlessness",
+    "peace",
+    "surrender",
+    "happiness",
+    "Hanuman blessings"
+  ],
+  "context_story_en": "Devotees traditionally recite the Chalisa seeking Hanuman’s protective grace against illness, fear, injustice, and negative influences. Across India, stories abound of faith in Hanuman providing courage during crises.",
+  "story_seed_en": "A frightened traveler finds shelter by surrendering to divine guidance. Fear fades, replaced with calm confidence as protection and peace surround the soul.",
+  "image_prompt_en": "Hanuman standing protectively beside a group of devotees, his glowing aura forming a shield of light around them, dark storm clouds receding into peaceful skies, devotional Indian cinematic art style.",
+  "emotion": [
+    "peace",
+    "security",
+    "comfort",
+    "faith",
+    "relief"
+  ],
+  "narration_prompt": "Narrate warmly with a soothing, reassuring voice that conveys safety and gentle care.",
+  "tags": [
+    "protection",
+    "refuge",
+    "fearlessness",
+    "peace",
+    "devotion",
+    "shelter"
+  ]
+}
+{
+  "id": "hc_025",
+  "verse_number": 25,
+  "line_number": "1-2",
+  "text_sanskrit": "आपन तेज सम्हारो आपै।\nतीनों लोक हांक तें कांपै।।",
+  "text_transliteration": "Aapan tej samhaaro aapai. Teeno lok haank te kaapai.",
+  "meaning_simple_en": "You restrain and control your own immense power; with your roar even the three worlds tremble.",
+  "meaning_detailed_en": "This verse describes Hanuman’s perfectly balanced greatness. Though possessing incomprehensible strength capable of shaking all three realms, he remains supremely self-controlled and gentle. His discipline shows that true power is guided by wisdom and restraint, not uncontrolled aggression. Hanuman demonstrates mastery over both outer force and inner ego.",
+  "keywords": [
+    "self-control",
+    "power restraint",
+    "cosmic strength",
+    "three worlds",
+    "discipline",
+    "humility",
+    "inner mastery"
+  ],
+  "context_story_en": "Hanuman’s might could overwhelm the universe, yet he always restrains himself unless duty demands action — as seen when he quietly consoles Sita but unleashes fury only upon Lanka’s injustice. This verse celebrates balanced spiritual strength.",
+  "story_seed_en": "A hero learns that the highest strength lies not in domination but in self-restraint. By mastering both force and temper, the hero becomes a protector rather than a destroyer.",
+  "image_prompt_en": "Majestic Hanuman standing calmly with suppressed divine energy glowing beneath his skin, subtle ripples of power vibrating across the three cosmic realms behind him, stars and divine light shimmering, epic mythological Indian devotional art style.",
+  "emotion": [
+    "awe",
+    "reverence",
+    "calm strength",
+    "discipline",
+    "respect"
+  ],
+  "narration_prompt": "Narrate in a powerful yet steady voice that reflects controlled strength and disciplined authority rather than explosive energy.",
+  "tags": [
+    "controlled_power",
+    "three_worlds",
+    "self_mastery",
+    "cosmic_strength",
+    "discipline",
+    "humility"
+  ]
+}
+{
+  "id": "hc_026",
+  "verse_number": 26,
+  "line_number": "1-2",
+  "text_sanskrit": "भूत पिसाच निकट नहिं आवै।\nमहाबीर जब नाम सुनावै।।",
+  "text_transliteration": "Bhoot pisaach nikat nahin aavai. Mahabeer jab naam sunaavai.",
+  "meaning_simple_en": "Ghosts and evil spirits do not come near when the name of Mahavir (Hanuman) is spoken.",
+  "meaning_detailed_en": "This verse emphasizes the protective power of Hanuman’s name. Devotees believe that chanting his name dispels negative energies, fear, and harmful influences — whether external or internal. Hanuman’s presence stands as a spiritual shield that restores peace and courage.",
+  "keywords": [
+    "Hanuman protection",
+    "evil removal",
+    "chanting",
+    "spiritual shield",
+    "fear removal",
+    "negative energy cleansing"
+  ],
+  "context_story_en": "In devotional traditions across India, Hanuman is invoked for protection against unseen dangers and inner disturbances. Chants of his name are believed to create a sacred protective barrier around the devotee.",
+  "story_seed_en": "A fearful soul chants Hanuman’s name through the night. Slowly shadows retreat and inner fears fade, replaced by courage and light.",
+  "image_prompt_en": "Radiant Hanuman standing guard as dark spirits flee into shadows, glowing mantra symbols surrounding him like a protective aura, devotees praying under his shield of light, dramatic devotional Indian cinematic art style.",
+  "emotion": [
+    "security",
+    "courage",
+    "relief",
+    "devotion",
+    "hope"
+  ],
+  "narration_prompt": "Narrate with a soothing yet powerful tone, reinforcing the comfort and safety of divine protection.",
+  "tags": [
+    "protection",
+    "chanting",
+    "fear_dissolution",
+    "evil_removal",
+    "hanuman_name",
+    "spiritual_shield"
+  ]
+}
+{
+  "id": "hc_027",
+  "verse_number": 27,
+  "line_number": "1-2",
+  "text_sanskrit": "नासै रोग हरै सब पीरा।\nजपत निरंतर हनुमत बीरा।।",
+  "text_transliteration": "Naasai rog harai sab peera. Japat nirantar Hanumat beera.",
+  "meaning_simple_en": "All diseases and sufferings disappear by continuously chanting the name of the brave Hanuman.",
+  "meaning_detailed_en": "This verse expresses faith in the healing power of devotion. Regular remembrance and chanting of Hanuman’s name brings mental calmness, emotional stability, and spiritual strength, which together help relieve suffering. While not a medical claim, the verse highlights the role of faith, hope, and mental resilience in overcoming pain and hardship.",
+  "keywords": [
+    "healing",
+    "chanting",
+    "removal of suffering",
+    "mental peace",
+    "hope",
+    "devotion",
+    "strength"
+  ],
+  "context_story_en": "Hanuman is revered as the restorer of life — exemplified by the Sanjeevani episode. Devotees chant his name seeking relief from disease, despair, and exhaustion, finding renewed strength and peace.",
+  "story_seed_en": "A person suffering from constant pain begins chanting Hanuman’s name daily. As fear and anxiety dissolve, the person regains confidence, calmness, and inner strength to recover and face life’s challenges.",
+  "image_prompt_en": "Devotees seated in calm meditation chanting Hanuman’s name, golden healing light radiating around Hanuman’s form, gradually dissolving dark clouds symbolizing suffering, serene devotional Indian art style.",
+  "emotion": [
+    "hope",
+    "healing calm",
+    "strength",
+    "peace",
+    "devotion"
+  ],
+  "narration_prompt": "Narrate gently and reassuringly, with emphasis on comfort, renewal, and steady faith.",
+  "tags": [
+    "healing",
+    "chanting",
+    "mental_peace",
+    "suffering_relief",
+    "hanuman_name",
+    "devotion"
+  ]
+}
+{
+  "id": "hc_028",
+  "verse_number": 28,
+  "line_number": "1-2",
+  "text_sanskrit": "संकट तें हनुमान छुड़ावै।\nमन क्रम बचन ध्यान जो लावै।।",
+  "text_transliteration": "Sankat ten Hanuman chhudaavai. Man kram bachan dhyaan jo laavai.",
+  "meaning_simple_en": "Hanuman rescues from every difficulty those who focus on him with mind, actions, words, and meditation.",
+  "meaning_detailed_en": "This verse teaches that complete devotion — aligning thoughts, deeds, speech, and meditation — invites Hanuman’s protective grace. Such integrated devotion strengthens inner resilience and attracts spiritual support that overcomes adversity.",
+  "keywords": [
+    "complete devotion",
+    "mind body speech alignment",
+    "meditation",
+    "deliverance from trouble",
+    "Hanuman grace",
+    "faith",
+    "resilience"
+  ],
+  "context_story_en": "Devotional tradition emphasizes the practice of remembering Hanuman not merely through chanting but by living aligned with righteousness in thought, word, and deed. Such disciplined devotion draws divine protection.",
+  "story_seed_en": "A seeker transforms their life by aligning actions, speech, and thoughts with devotion. Facing troubles that once seemed impossible, the seeker experiences unexpected guidance and relief.",
+  "image_prompt_en": "Devotee sitting in deep meditation before a radiant Hanuman statue, soft beams of light connecting heart, hands, and voice to divine energy, tranquil temple setting, devotional Indian art style.",
+  "emotion": [
+    "focus",
+    "faith",
+    "inner strength",
+    "peace",
+    "hope"
+  ],
+  "narration_prompt": "Narrate calmly and purposefully, reflecting disciplined devotion and unwavering trust.",
+  "tags": [
+    "deliverance",
+    "complete_devotion",
+    "meditation",
+    "faith_alignment",
+    "inner_strength",
+    "protection"
+  ]
+}
+{
+  "id": "hc_029",
+  "verse_number": 29,
+  "line_number": "1-2",
+  "text_sanskrit": "सब पर राम तपस्वी राजा।\nतिन के काज सकल तुम साजा।।",
+  "text_transliteration": "Sab par Ram tapasvee raaja. Tin ke kaaj sakal tum saaja.",
+  "meaning_simple_en": "Supreme above all is Lord Rama, the ascetic king; you accomplish all of His tasks.",
+  "meaning_detailed_en": "This verse honors Rama as the highest spiritual sovereign — the ideal king who lives in discipline and righteousness. Hanuman is celebrated as the tireless servant who flawlessly carried out every command of such a divine ruler. The verse emphasizes the harmony between ideal leadership (Rama) and perfect service (Hanuman).",
+  "keywords": [
+    "Rama the supreme king",
+    "tapasya",
+    "discipline",
+    "divine leadership",
+    "selfless service",
+    "perfect servant",
+    "devotion"
+  ],
+  "context_story_en": "From the search for Sita to the battlefield strategies and rescues, every major stage of Rama’s mission was advanced by Hanuman’s dedication. Their relationship exemplifies divine cooperation between leadership and service.",
+  "story_seed_en": "A diligent servant supports a righteous leader not for reward, but to uphold justice and compassion. Together they demonstrate the power of unity between vision and action.",
+  "image_prompt_en": "Lord Rama seated calmly as the ascetic king while Hanuman stands devotedly by his side with folded hands, golden aura surrounding them, forest hermitage background blending into royal imagery, devotional Indian epic art style.",
+  "emotion": [
+    "devotion",
+    "duty",
+    "respect",
+    "loyalty",
+    "tranquility"
+  ],
+  "narration_prompt": "Narrate with dignified reverence, balancing devotional admiration with quiet strength.",
+  "tags": [
+    "rama_supreme",
+    "divine_service",
+    "loyalty",
+    "duty",
+    "ascetic_king",
+    "mission_support"
+  ]
+}
+{
+  "id": "hc_030",
+  "verse_number": 30,
+  "line_number": "1-2",
+  "text_sanskrit": "और मनोरथ जो कोई लावै।\nसोइ अमित जीवन फल पावै।।",
+  "text_transliteration": "Aur manorath jo koi laavai. Soi amit jeevan phal paavai.",
+  "meaning_simple_en": "Whoever brings their heartfelt wishes to you receives abundant rewards in life.",
+  "meaning_detailed_en": "This verse conveys that sincere prayers offered to Hanuman — guided by faith and righteousness — are met with blessings that yield meaningful results in life. The ‘fruit’ mentioned is not merely material wealth but fulfillment, strength of character, peace of mind, and spiritual growth. It teaches that devotion aligned with noble intent attracts divine assistance.",
+  "keywords": [
+    "divine blessings",
+    "wish fulfillment",
+    "sincere prayer",
+    "life purpose",
+    "spiritual rewards",
+    "inner peace",
+    "faith"
+  ],
+  "context_story_en": "Devotees often turn to Hanuman when seeking clarity, protection, courage, or success in righteous endeavors. Experiences of answered prayers strengthen faith in divine guidance.",
+  "story_seed_en": "A devoted seeker pours heartfelt wishes into prayer with pure intent. As inner clarity grows, circumstances align, and the seeker receives blessings that shape a more meaningful and fulfilled life.",
+  "image_prompt_en": "Devotee kneeling before radiant Hanuman offering folded hands as divine light showers down symbolizing blessings and fulfilled aspirations, serene temple setting, devotional cinematic Indian art style.",
+  "emotion": [
+    "hope",
+    "gratitude",
+    "trust",
+    "peace",
+    "fulfillment"
+  ],
+  "narration_prompt": "Narrate with gentle optimism and warmth, expressing reassurance that sincere devotion brings abundant spiritual fruits.",
+  "tags": [
+    "wish_fulfillment",
+    "blessings",
+    "prayer",
+    "inner_peace",
+    "faith",
+    "gratitude"
+  ]
+}
+{
+  "id": "hc_031",
+  "verse_number": 31,
+  "line_number": "1-2",
+  "text_sanskrit": "चारों जुग परताप तुम्हारा।\nहै परसिद्ध जगत उजियारा।।",
+  "text_transliteration": "Chaaron yug prataap tumhaara. Hai prasiddh jagat ujiyaara.",
+  "meaning_simple_en": "Your glory shines through all four ages and your fame illuminates the entire world.",
+  "meaning_detailed_en": "This verse celebrates Hanuman's timeless greatness. His strength and devotion are not limited to any single era but remain powerful across all four Yugas — Satya, Treta, Dvapara, and Kali. His name continues to inspire courage, hope, and righteousness among devotees worldwide, spreading spiritual light through generations.",
+  "keywords": [
+    "four yugas",
+    "timeless devotion",
+    "eternal glory",
+    "global reverence",
+    "divine fame",
+    "inspiration",
+    "spiritual light"
+  ],
+  "context_story_en": "Though Hanuman’s physical presence was most prominent during the Ramayana era (Treta Yuga), tradition holds that his influence remains alive throughout time — protecting devotees and inspiring faith across all ages.",
+  "story_seed_en": "A seeker discovers that faith is a timeless force. Reading the stories of Hanuman from centuries past, the seeker feels the same courage awaken in modern life, proving that spiritual power transcends time.",
+  "image_prompt_en": "Hanuman standing radiant as the four Yugas blend in the background — ancient civilizations evolving into modern cities behind him, golden light shining across the ages, epic devotional Indian art style with symbolic time transitions.",
+  "emotion": [
+    "awe",
+    "inspiration",
+    "reverence",
+    "hope",
+    "timeless pride"
+  ],
+  "narration_prompt": "Narrate with majestic uplifted tone, expanding into poetic grandeur to convey unforgettable timeless glory.",
+  "tags": [
+    "four_yugas",
+    "timeless_glory",
+    "universal_fame",
+    "spiritual_light",
+    "inspiration",
+    "eternal_devotion"
+  ]
+}
+{
+  "id": "hc_032",
+  "verse_number": 32,
+  "line_number": "1-2",
+  "text_sanskrit": "साधु-संत के तुम रखवारे।\nअसुर निकंदन राम दुलारे।।",
+  "text_transliteration": "Saadhu-sant ke tum rakhvaare. Asur nikandan Ram dulaare.",
+  "meaning_simple_en": "You are the protector of saints and sages, destroyer of demons, and the beloved of Lord Rama.",
+  "meaning_detailed_en": "This verse presents Hanuman as the guardian of the righteous and the destroyer of evil forces. His role balances compassion with righteous power — shielding holy beings while eliminating injustice. Calling him ‘Ram dulaare’ reminds devotees that his strength flows directly from his intimate bond with Rama.",
+  "keywords": [
+    "protector of saints",
+    "destroyer of evil",
+    "guardian",
+    "righteous justice",
+    "devotion to Rama",
+    "divine warrior",
+    "compassionate power"
+  ],
+  "context_story_en": "Throughout the Ramayana, Hanuman protects harmless sages and allies while confronting demonic adversaries that threaten spiritual order. His unwavering loyalty to Rama empowers his protective mission.",
+  "story_seed_en": "A gentle guardian stands watch over peaceful sages, rising instantly into a fierce warrior whenever injustice threatens, teaching that compassion and courage must coexist.",
+  "image_prompt_en": "Hanuman standing protectively in front of meditating sages while fiery light surrounds him as demons retreat, Rama’s divine symbol glowing faintly above, epic devotional Indian art style.",
+  "emotion": [
+    "valor",
+    "protection",
+    "devotion",
+    "peaceful courage",
+    "divine duty"
+  ],
+  "narration_prompt": "Narrate with heroic warmth and devotion, combining firmness with loving reverence.",
+  "tags": [
+    "protector",
+    "saints",
+    "destroyer_of_evil",
+    "rama_beloved",
+    "guardian",
+    "righteous_power"
+  ]
+}
+{
+  "id": "hc_033",
+  "verse_number": 33,
+  "line_number": "1-2",
+  "text_sanskrit": "अष्ट सिद्धि नौ निधि के दाता।\nअस बर दीन जानकी माता।।",
+  "text_transliteration": "Ashta siddhi nau nidhi ke daata. As bar deen Janaki maata.",
+  "meaning_simple_en": "You bestow the eight spiritual powers and the nine treasures; this boon was granted to you by Mother Sita (Janaki).",
+  "meaning_detailed_en": "This verse declares Hanuman as the divine bestower of the eight mystical attainments (Aṣṭa Siddhis — such as becoming tiny, immensely large, weightless, omnipotent, etc.) and the nine forms of wealth (Nava Nidhis). Tradition holds that Goddess Sita granted Hanuman the blessing to distribute these gifts to worthy devotees. However, Hanuman remains detached from such powers, using them only in the service of Rama.",
+  "keywords": [
+    "Ashta Siddhi",
+    "Nava Nidhi",
+    "divine boons",
+    "spiritual powers",
+    "prosperity",
+    "Sita's blessing",
+    "humble service"
+  ],
+  "context_story_en": "After Hanuman’s unmatched devotion and courage during the Lanka mission, Sita blessed him with the authority to grant siddhis and prosperity to deserving devotees. Despite possessing immense powers, Hanuman remains a model of humility and selfless devotion.",
+  "story_seed_en": "A divine servant receives immeasurable powers yet remains humble, using strength only to uplift and protect others rather than for personal gain.",
+  "image_prompt_en": "Hanuman seated in radiant meditation as glowing symbols of the eight siddhis and nine treasures float around him, Mother Sita blessing him with gentle divine light, serene cosmic devotional art style.",
+  "emotion": [
+    "reverence",
+    "awe",
+    "gratitude",
+    "spiritual wonder",
+    "devotion"
+  ],
+  "narration_prompt": "Narrate with mystic reverence and gentle grandeur, expressing the sacred gifting of spiritual powers.",
+  "tags": [
+    "ashta_siddhi",
+    "nava_nidhi",
+    "divine_gifts",
+    "sita_blessing",
+    "spiritual_power",
+    "humility"
+  ]
+}
+{
+  "id": "hc_034",
+  "verse_number": 34,
+  "line_number": "1-2",
+  "text_sanskrit": "राम रसायन तुम्हरे पासा।\nसदा रहो रघुपति के दासा।।",
+  "text_transliteration": "Raam rasaayan tumhare paasa. Sadaa raho Raghupati ke daasa.",
+  "meaning_simple_en": "You possess the divine nectar of Rama’s name and always remain the humble servant of Lord Rama.",
+  "meaning_detailed_en": "This verse reveals the secret of Hanuman’s greatness: complete devotion to the name of Rama. ‘Ram Rasayan’ means the supreme spiritual nectar — the constant remembrance of Rama that heals the soul and grants eternal joy. Despite possessing infinite powers, Hanuman chooses to remain forever the servant (dāsa) of Rama, embodying supreme humility and surrender.",
+  "keywords": [
+    "Rama's name",
+    "spiritual nectar",
+    "bhakti",
+    "humility",
+    "servant of Rama",
+    "constant devotion",
+    "inner healing"
+  ],
+  "context_story_en": "Hanuman is often depicted with the name of Rama written on his heart or tongue — symbolizing that devotion itself is the source of his boundless strength and inner bliss.",
+  "story_seed_en": "A seeker learns that true power does not come from mystic abilities but from simple, constant remembrance of the divine name, living every moment as a servant of higher truth.",
+  "image_prompt_en": "Hanuman standing serenely with the glowing word 'RAMA' shining from his heart, hands folded in devotion, cosmic golden light surrounding him, peaceful devotional Indian art style.",
+  "emotion": [
+    "peace",
+    "humility",
+    "devotion",
+    "inner joy",
+    "spiritual surrender"
+  ],
+  "narration_prompt": "Narrate gently with meditative calm and devotional warmth, highlighting pure surrender to Rama’s name.",
+  "tags": [
+    "rama_nectar",
+    "constant_bhakti",
+    "servant_ideal",
+    "surrender",
+    "humility",
+    "inner_peace"
+  ]
+}
+{
+  "id": "hc_035",
+  "verse_number": 35,
+  "line_number": "1-2",
+  "text_sanskrit": "तुम्हरे भजन राम को पावै।\nजनम-जनम के दुख बिसरावै।।",
+  "text_transliteration": "Tumhare bhajan Ram ko paavai. Janam-janam ke dukh bisraavai.",
+  "meaning_simple_en": "By singing your praises, one attains Lord Rama and forgets the sorrows of countless lifetimes.",
+  "meaning_detailed_en": "This verse teaches that devotion to Hanuman naturally leads the devotee to Rama, freeing the soul from the accumulated suffering of endless cycles of birth. Hanuman’s worship purifies the heart, guiding the seeker beyond grief, attachments, and fear toward divine union.",
+  "keywords": [
+    "devotional worship",
+    "path to Rama",
+    "liberation",
+    "removal of suffering",
+    "cycle of rebirth",
+    "inner purification",
+    "moksha"
+  ],
+  "context_story_en": "In bhakti tradition, Hanuman is revered as the supreme gateway to Rama. His worship removes obstacles on the spiritual path and dissolves karmic burdens from countless lifetimes.",
+  "story_seed_en": "A seeker burdened by life's sorrows turns wholeheartedly to devotion. Over time, inner peace replaces grief as the soul feels guided toward divine unity.",
+  "image_prompt_en": "Devotee chanting before glowing Hanuman while rays of divine light form an image of Lord Rama appearing above, karmic chains dissolving into light, peaceful devotional Indian cinematic art style.",
+  "emotion": [
+    "peace",
+    "hope",
+    "release",
+    "devotion",
+    "spiritual liberation"
+  ],
+  "narration_prompt": "Narrate with soothing warmth and spiritual uplift, conveying freedom from deep sorrow and awakening of divine love.",
+  "tags": [
+    "bhajan",
+    "path_to_rama",
+    "liberation",
+    "karmic_release",
+    "inner_healing",
+    "moksha"
+  ]
+}
+{
+  "id": "hc_036",
+  "verse_number": 36,
+  "line_number": "1-2",
+  "text_sanskrit": "अन्तकाल रघुबर पुर जाई।\nजहां जन्म हरि-भक्त कहाई।।",
+  "text_transliteration": "Antkaal Raghubar pur jaai. Jahaan janm Hari-bhakt kahai.",
+  "meaning_simple_en": "At life’s end one attains the abode of Lord Rama and is reborn only as a devotee of Hari.",
+  "meaning_detailed_en": "This verse promises the highest spiritual reward of devotion: liberation and divine reunion. Those who devote themselves to Hanuman are guided toward Rama’s eternal abode at the end of life and, if reborn, return only as God’s devotees. It emphasizes that pure bhakti reshapes the soul’s destiny beyond death.",
+  "keywords": [
+    "final liberation",
+    "divine abode",
+    "rebirth as devotee",
+    "moksha",
+    "bhakti fate",
+    "spiritual destiny",
+    "eternal devotion"
+  ],
+  "context_story_en": "Devotional belief holds Hanuman as the spiritual guardian guiding souls toward Rama even after death. Hanuman himself is eternal, continually reminding devotees that service and remembrance transcend physical existence.",
+  "story_seed_en": "A lifetime of devotion culminates in peaceful surrender, as the soul journeys toward divine light, guided by loving grace beyond the limitations of time and mortality.",
+  "image_prompt_en": "A serene soul ascending toward a radiant golden city representing Rama’s abode while Hanuman watches protectively from below, celestial light paths across the sky, devotional Indian epic art style with tranquil brilliance.",
+  "emotion": [
+    "peace",
+    "hope",
+    "serenity",
+    "spiritual fulfillment",
+    "eternal comfort"
+  ],
+  "narration_prompt": "Narrate with gentle solemnity and uplifting reassurance, evoking calm faith in the soul’s eternal journey.",
+  "tags": [
+    "moksha",
+    "afterlife",
+    "divine_abode",
+    "eternal_devotion",
+    "peaceful_departure",
+    "faith"
+  ]
+}
+{
+  "id": "hc_037",
+  "verse_number": 37,
+  "line_number": "1-2",
+  "text_sanskrit": "और देवता चित्त न धरई।\nहनुमत सेइ सर्ब सुख करई।।",
+  "text_transliteration": "Aur devata chitt na dharai. Hanumat sei sarb sukh karai.",
+  "meaning_simple_en": "One who relies solely on Hanuman need not think of other deities; Hanuman alone grants all happiness.",
+  "meaning_detailed_en": "This verse emphasizes exclusive devotion (single-point bhakti). By serving Hanuman with full faith, devotees naturally attain peace, happiness, and spiritual fulfillment without confusion of divided worship. Since Hanuman himself is ever devoted to Rama, worshipping Hanuman ultimately draws the devotee closer to all divine blessings.",
+  "keywords": [
+    "single devotion",
+    "focused bhakti",
+    "complete reliance",
+    "peace",
+    "happiness",
+    "Hanuman worship",
+    "divine union"
+  ],
+  "context_story_en": "In bhakti tradition, Hanuman is regarded as a perfect intermediary who leads devotees directly to Rama. Thus sincere devotion to Hanuman becomes a complete spiritual practice.",
+  "story_seed_en": "A seeker abandons distractions and places complete faith in one path of devotion. This simplicity brings clarity, inner peace, and deep joy.",
+  "image_prompt_en": "Single devotee seated before radiant Hanuman statue in quiet temple, all other idols fading into soft light, peaceful glow enveloping the devotee, devotional Indian art style with minimal serenity.",
+  "emotion": [
+    "peace",
+    "clarity",
+    "trust",
+    "devotional joy",
+    "contentment"
+  ],
+  "narration_prompt": "Narrate in a calm, confident, reassuring tone that conveys simplicity and devotional fulfillment.",
+  "tags": [
+    "exclusive_bhakti",
+    "focused_devotion",
+    "inner_peace",
+    "simplicity",
+    "faith"
+  ]
+}
+{
+  "id": "hc_038",
+  "verse_number": 38,
+  "line_number": "1-2",
+  "text_sanskrit": "संकट कटै मिटै सब पीरा।\nजो सुमिरै हनुमत बलबीरा।।",
+  "text_transliteration": "Sankat katai mitai sab peera. Jo sumirai Hanumat balbeera.",
+  "meaning_simple_en": "All troubles are destroyed and all suffering disappears for those who remember the mighty Hanuman.",
+  "meaning_detailed_en": "This verse reinforces a running theme of the Chalisa — sincere remembrance of Hanuman dissolves fear, pain, and difficulty. ‘Smaran’ (remembrance) strengthens mental resolve and invokes divine grace, enabling devotees to face hardships with courage and hope.",
+  "keywords": [
+    "remembrance",
+    "trouble removal",
+    "suffering relief",
+    "faith",
+    "courage",
+    "grace",
+    "Hanuman devotion"
+  ],
+  "context_story_en": "From facing ocean crossings to battlefield crises, Hanuman often appears at moments of deepest distress, symbolizing timely divine support for devoted souls.",
+  "story_seed_en": "A devotee, overwhelmed by endless challenges, repeatedly remembers Hanuman. Gradually the heart steadies, clarity emerges, and solutions unfold where despair once ruled.",
+  "image_prompt_en": "Dark storm clouds breaking apart as a devotee chants Hanuman’s name, radiant Hanuman’s form appearing in the sky, golden light dissolving all shadows, cinematic devotional Indian art style.",
+  "emotion": [
+    "hope",
+    "relief",
+    "faith",
+    "inner strength",
+    "peace"
+  ],
+  "narration_prompt": "Narrate with confident reassurance that rises into uplifting resolve.",
+  "tags": [
+    "remembrance",
+    "trouble_removal",
+    "healing",
+    "faith",
+    "strength",
+    "hope"
+  ]
+}
+{
+  "id": "hc_039",
+  "verse_number": 39,
+  "line_number": "1-2",
+  "text_sanskrit": "जै जै जै हनुमान गोसाईं।\nकृपा करहु गुरुदेव की नाईं।।",
+  "text_transliteration": "Jai jai jai Hanuman Gosain. Kripa karahu Gurudev ki naain.",
+  "meaning_simple_en": "Victory to Hanuman, the divine master! Show your grace upon us just as a compassionate Guru does.",
+  "meaning_detailed_en": "This verse is a heartfelt exclamation of praise followed by a prayer. The devotee proclaims repeated victory to Hanuman, acknowledging him as a spiritual master (Gosain), and then seeks his compassionate grace like that of a kind Guru who guides disciples from ignorance to wisdom. The verse establishes Hanuman as both protector and teacher on the spiritual path.",
+  "keywords": [
+    "praise",
+    "victory chant",
+    "Hanuman as guru",
+    "divine grace",
+    "spiritual guidance",
+    "compassion",
+    "bhakti"
+  ],
+  "context_story_en": "Hanuman is revered not only as a warrior and protector but also as the giver of knowledge and devotion. Many saints address him as a spiritual Guru who leads seekers toward humility and remembrance of Rama.",
+  "story_seed_en": "A devoted seeker chants repeated praises to Hanuman and prays for guidance. Slowly, the Guru-like grace of Hanuman awakens discernment, courage, and clarity on the seeker’s path.",
+  "image_prompt_en": "Radiant Hanuman standing in blessing posture as devotees bow before him, beams of golden light flowing from his hands symbolizing guru’s grace, temple courtyard glowing with devotional lamps, epic Indian devotional art style.",
+  "emotion": [
+    "reverence",
+    "gratitude",
+    "humility",
+    "hope",
+    "devotional joy"
+  ],
+  "narration_prompt": "Narrate with celebratory energy for the praise lines, then soften into a warm, prayerful tone when invoking Hanuman’s guru-like grace.",
+  "tags": [
+    "victory_chant",
+    "guru_grace",
+    "praise",
+    "spiritual_teacher",
+    "compassion",
+    "bhakti"
+  ]
+}
+{
+  "id": "hc_040",
+  "verse_number": 40,
+  "line_number": "1-2",
+  "text_sanskrit": "जो सत बार पाठ कर कोई।\nछूटहि बंदि महा सुख होई।।",
+  "text_transliteration": "Jo sat baar paath kar koi. Chhootahi bandi maha sukh hoi.",
+  "meaning_simple_en": "Whoever recites this prayer a hundred times is freed from bondage and attains great happiness.",
+  "meaning_detailed_en": "The final verse highlights the transformative power of sincere repetition and disciplined devotion. Reciting the Hanuman Chalisa cultivates mental focus, emotional strength, and spiritual purity. Over time, this devotion liberates the individual from inner bondage — fear, doubt, attachment, and suffering — granting inner freedom and profound peace. The 'hundred recitations' symbolize sustained commitment rather than mere numeric counting.",
+  "keywords": [
+    "regular recitation",
+    "spiritual discipline",
+    "inner liberation",
+    "freedom from bondage",
+    "joy",
+    "peace",
+    "devotional practice"
+  ],
+  "context_story_en": "For centuries devotees have followed the practice of repeated Chalisa recitation during life challenges or spiritual vows (sankalpa), seeking release from worry and the growth of devotion.",
+  "story_seed_en": "A troubled mind commits to daily devotional discipline. With steady practice the inner chains of anxiety and despair loosen, replaced by clarity, courage, and joy.",
+  "image_prompt_en": "A devotee seated calmly reciting the Chalisa with prayer beads, chains symbolically dissolving into light around them, radiant Hanuman smiling in blessing behind, peaceful devotional Indian art style with glowing aura.",
+  "emotion": [
+    "hope",
+    "joy",
+    "liberation",
+    "peace",
+    "thankfulness"
+  ],
+  "narration_prompt": "Narrate with gentle fulfillment and tranquility, conveying closure, peace, and the joy of spiritual freedom.",
+  "tags": [
+    "discipline",
+    "regular_practice",
+    "liberation",
+    "inner_freedom",
+    "joy",
+    "completion"
+  ]
+}
+{
+  "id": "hc_041",
+  "verse_number": 41,
+  "line_number": "1-2",
+  "text_sanskrit": "जो यह पढ़ै हनुमान चालीसा।\nहोय सिद्धि साखी गौरीसा।।",
+  "text_transliteration": "Jo yah padhe Hanuman Chalisa. Hoy siddhi saakhi Gaurisa.",
+  "meaning_simple_en": "Whoever reads the Hanuman Chalisa attains success and fulfillment; Lord Shiva himself bears witness to this truth.",
+  "meaning_detailed_en": "This closing verse reaffirms the spiritual assurance behind reciting the Chalisa. It declares that sincere reading leads to spiritual accomplishment (siddhi) and divine blessings. Lord Shiva (Gaurisa), regarded as Hanuman’s spiritual origin, stands as witness to this promise. The verse signifies final validation — that faith in Hanuman’s devotion becomes a direct channel to divine grace and personal transformation.",
+  "keywords": [
+    "phal-shruti",
+    "scriptural assurance",
+    "siddhi attainment",
+    "Hanuman Chalisa benefits",
+    "Lord Shiva witness",
+    "devotional practice",
+    "faith validation"
+  ],
+  "context_story_en": "In traditional recitation, this verse is spoken as the conclusive blessing that seals the prayer. Calling Shiva as witness connects Hanuman’s devotion directly to the highest spiritual authority, confirming the Chalisa’s transformative power.",
+  "story_seed_en": "After completing the sacred recitation, a devotee feels an inner sealing of faith, as if divine forces silently acknowledge their devotion and bless the soul’s journey forward.",
+  "image_prompt_en": "Hanuman glowing with devotion while Lord Shiva appears above as a celestial witness in gentle blessing posture, sacred light radiating over the praying devotee below, epic devotional Indian artwork style with cosmic illumination.",
+  "emotion": [
+    "spiritual assurance",
+    "gratitude",
+    "completion",
+    "divine validation",
+    "peace"
+  ],
+  "narration_prompt": "Narrate with a conclusive, sacred warmth — gentle authority mixed with peaceful finality, expressing heavenly assurance.",
+  "tags": [
+    "phal_shruti",
+    "completion",
+    "scriptural_promise",
+    "divine_validation",
+    "siddhi",
+    "faith"
+  ]
+}
+{
+  "id": "hc_042",
+  "verse_number": 42,
+  "line_number": "1-2",
+  "text_sanskrit": "तुलसीदास सदा हरि चेरा।\nकीजै नाथ हृदय मंह डेरा।।",
+  "text_transliteration": "Tulsidas sadaa Hari cheraa. Keejai Naath hridaya manh deraa.",
+  "meaning_simple_en": "Tulsidas is forever the humble servant of Lord Hari; O Lord, please dwell in my heart always.",
+  "meaning_detailed_en": "In this concluding prayer, poet-saint Tulsidas humbly identifies himself as the eternal servant of the Divine (Hari/Rama) and pleads for Hanuman and Rama to reside permanently within his heart. The couplet sums up the core teaching of the entire Chalisa — that true devotion seeks not power, success, or miracles, but a lasting inner presence of the Divine born of humility and surrender.",
+  "keywords": [
+    "Tulsidas",
+    "humility",
+    "servant of God",
+    "surrender",
+    "divine indwelling",
+    "heart devotion",
+    "final prayer"
+  ],
+  "context_story_en": "After narrating Hanuman’s divine glory and spiritual blessings, Tulsidas ends with personal surrender. The author places himself not as a distant poet but a devoted seeker praying for uninterrupted divine presence within the heart — a message that every devotee can adopt as their own closing prayer.",
+  "story_seed_en": "At the end of a long devotional journey, the seeker drops all desires except one — that the Divine may dwell within their heart forever. In that surrender, peace becomes eternal companionship rather than something sought outside.",
+  "image_prompt_en": "Saint Tulsidas seated in quiet devotion beneath soft lamp light, writing the Hanuman Chalisa manuscript while Hanuman’s gentle luminous form appears behind him blessing his heart, serene temple atmosphere, devotional Indian art style.",
+  "emotion": [
+    "humility",
+    "serenity",
+    "devotion",
+    "inner peace",
+    "completion"
+  ],
+  "narration_prompt": "Narrate in a calm, deeply humble and prayerful tone, slowing the pace to create a feeling of spiritual closure and surrender.",
+  "tags": [
+    "tulsidas",
+    "final_prayer",
+    "surrender",
+    "divine_presence",
+    "closure",
+    "humility"
+  ]
+}
+{
+  "id": "hc_000",
+  "verse_number": 0,
+  "line_number": "1-2",
+  "text_sanskrit": "पवन तनय संकट हरन, मंगल मूरति रूप।\nराम लखन सीता सहित, हृदय बसहु सुर भूप।।",
+  "text_transliteration": "Pavan tanay sankat haran, mangal murti roop. Ram Lakhan Sita sahit, hriday basahu sur bhoop.",
+  "meaning_simple_en": "O son of the Wind, remover of troubles and embodiment of auspiciousness — may you dwell in my heart with Rama, Lakshmana, and Sita.",
+  "meaning_detailed_en": "This opening doha is the sacred invocation of the Hanuman Chalisa. The devotee first salutes Hanuman as the son of the Wind and the remover of distress. Hanuman is described as the embodiment of divine goodness and prosperity. The prayer asks not just for blessings but for the eternal presence of Rama, Lakshmana, Sita, and Hanuman within the heart — symbolizing inner transformation rather than external reward.",
+  "keywords": [
+    "invocation",
+    "Pavan Putra",
+    "remover of distress",
+    "auspiciousness",
+    "divine presence",
+    "inner devotion",
+    "heart prayer"
+  ],
+  "context_story_en": "Every traditional recitation of the Hanuman Chalisa begins with this doha. It is the spiritual doorway of the hymn — preparing the heart in humility for the verses that follow by inviting divine presence.",
+  "story_seed_en": "Before beginning a sacred chant, a devotee stills the mind and invites divine names to dwell within the heart, setting the journey inward before praise outward begins.",
+  "image_prompt_en": "Hanuman standing in blessing pose with Rama, Sita, and Lakshmana behind him glowing with divine aura, peaceful golden sunrise sky, temple courtyard foreground, devotional Indian epic painting style.",
+  "emotion": [
+    "reverence",
+    "peace",
+    "hope",
+    "devotional opening",
+    "inner calm"
+  ],
+  "narration_prompt": "Narrate softly and reverently with slow pacing, as an opening prayer that sets a calm spiritual atmosphere.",
+  "tags": [
+    "opening_doha",
+    "invocation",
+    "pavan_putra",
+    "divine_presence",
+    "beginning",
+    "mangalacharan"
+  ]
+}
